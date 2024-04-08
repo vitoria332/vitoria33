@@ -1,0 +1,45 @@
+header{
+	background: black;
+}
+body{
+	background: linear-gradient(black,black,white);
+}
+
+h1{
+	font-size: 50px;
+	color: white;
+}
+
+nav li{
+	display: inline;
+	padding: 0 0 0 20px;
+}
+
+nav a{
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+nav a:hover {
+
+	color: green;
+	text-decoration: underline;
+}
+h2{
+	font-size: 50px;
+	color: white;
+}
+
+p{
+	font-size: 40px;
+	color: white;
+	text-align: justify;
+}
+
+main img{
+	width: 560px;
+	height: 315px;
+	margin: 0 20px 0 70px;
+}
